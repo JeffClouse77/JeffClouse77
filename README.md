@@ -27,4 +27,8 @@ Automate the second time. Document the hard lessons so the next person starts ah
 
 ---
 
-<sub>Move the Redline. · <a href="https://redlinetechsolutions.org/">redlinetechsolutions.org</a></sub>
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/jeffery-clouse-2b482999) · [Redline Tech Solutions](https://redlinetechsolutions.org/)
+
+<sub>Move the Redline.</sub>
